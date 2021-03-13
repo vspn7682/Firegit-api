@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Firegit-api/static/css/main.ae546c16.chunk.css",
+    "main.js": "/Firegit-api/static/js/main.3890c4f1.chunk.js",
+    "main.js.map": "/Firegit-api/static/js/main.3890c4f1.chunk.js.map",
+    "runtime-main.js": "/Firegit-api/static/js/runtime-main.08b1c7c7.js",
+    "runtime-main.js.map": "/Firegit-api/static/js/runtime-main.08b1c7c7.js.map",
+    "static/css/2.3f6a4e7d.chunk.css": "/Firegit-api/static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.db66eded.chunk.js": "/Firegit-api/static/js/2.db66eded.chunk.js",
+    "static/js/2.db66eded.chunk.js.map": "/Firegit-api/static/js/2.db66eded.chunk.js.map",
+    "index.html": "/Firegit-api/index.html",
+    "static/css/2.3f6a4e7d.chunk.css.map": "/Firegit-api/static/css/2.3f6a4e7d.chunk.css.map",
+    "static/css/main.ae546c16.chunk.css.map": "/Firegit-api/static/css/main.ae546c16.chunk.css.map",
+    "static/js/2.db66eded.chunk.js.LICENSE.txt": "/Firegit-api/static/js/2.db66eded.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08b1c7c7.js",
+    "static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.db66eded.chunk.js",
+    "static/css/main.ae546c16.chunk.css",
+    "static/js/main.3890c4f1.chunk.js"
+  ]
+}
