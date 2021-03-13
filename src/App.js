@@ -43,7 +43,7 @@ function App() {
             <Navbar />
             <Register />
           </Route>
-          <Route exact path='*'>
+          <Route path='*'>
             <PageNotFound />
           </Route>
 
