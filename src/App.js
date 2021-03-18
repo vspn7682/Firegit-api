@@ -43,9 +43,7 @@ function App() {
             <Navbar />
             <Register />
           </Route>
-          {/* <Route path='*'>
-            <PageNotFound />
-          </Route> */}
+
 
         </Switch>
       </UserContext.Provider>
