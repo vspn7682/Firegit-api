@@ -53,6 +53,7 @@ const Login = () => {
                 className="form-control"
                 id="exampleInputEmail1"
                 aria-describedby="emailHelp"
+                required
               />
               <div id="emailHelp" className="form-text">
                 We'll never share your email with anyone else.
@@ -67,6 +68,7 @@ const Login = () => {
                 onChange={(e) => setPassword(e.target.value)}
                 className="form-control"
                 id="exampleInputPassword1"
+                required
               />
             </div>
 
